@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatty-online-app-346ef",
+  "private_key_id": "df88d3a5c8440e1d853419451ef1fcc307c3abea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+Qro/hDE5cKgn\n7MzrIppf8QKfnMJZxx27Df4e+0BA95YybIWAmg7pcCLCsIoAGUIT+Kg05I03CEyE\nIeOFCvEdHBEnpEPGdzrhqqmtSDGBoZ8yhyRx3NRxTiCPx3prA1OEFN8SaSiu2vKY\nF9Xvz0N7LFX7BA2aR1eAHnVb2b6T25HoEWrXyIbP5gwf5QpNhOSdciULk5lLx01C\nlL6mZfmQjbLqUqjk6btNzUMM70XUXax8rUuLRFtmvoqEcLctbUrAQYbR3YnpOlvo\nkZapISkjKw0nKdN8xJq84aicdtjl96CtzjDR1mJ/QCQo3RLtq7HsmVgh728/uc7m\nKvkLS9zTAgMBAAECggEAG3vSIbi7z5tZfyLy2wiNmkxbX6kqXgOoZMv5qIoM1xWs\nya3pfxFCFDCRpOQRm0AKzo295p4ZVBjLzM6EakSRXe4fAEX3UGUKyWx4xEJIfHxX\nXdotxpDq009A3uQm5+x8FPla2/L64H9aSeQvkEu1aMaXyQHl4SJrHmPH+jOzFvKB\ngLZ9wEPqzeu6eZtCMRWKTmAken/hG1xy0IWtx858EKaYNskclfedOEt18HumELuR\n72lL5EASQBtTmyl4WaaYeQx8HXSAjXoZUYrAH7YnqKbpgN1NkGyrR2/5siMMxJ9s\nshAdr4JFCXtzliPWtla98wrfI8wypirFaskVts9V4QKBgQD8x4wG4f3EYtqf5qnj\n6BnDiLf5HklHybyESpt1RxITSamKBoXGf45ZS/Dx5YMlmviGGvj8xibVSVNCt8Lp\nNEtlEj7ZTshpeX2GyNNU6WmdFMUh8EAyEGeyxzPujXPR33jWSempuu11BWI6CZcQ\nqxpLzqz/SpimymcYLXW7g9LW0QKBgQDAr0WyFsqYaHy9/MYe5X5Ke8T992TiMxEG\n3fJbGSzo0K0Gswk7AhU7jpeZRlCOU3kIxZ2coldaCGRyYFly6/3m4RDJ9guij03j\nOOPFq8DCFwkworRY/K0QhM0lKov3l/jmhuqQkGhbyMKZ2PtMNpON7XFpj8dRHXtJ\ndai061yqYwKBgC5zUNT29FYBQGF/1ppNzWY0GnKJ0TeC58R7nUOY0sZ+k8wMVMrc\nJ8FbBiS9YzMm3iJulHCGzR4GgmlRMVz/QheJmcj/BC71p058WvFQjxrRdUQ+TN2m\nTBf7KRzeG3lmkmL2ZBzPf9EwMxOtLXhfqM5jZUDoaVLFANrdh7P0jmrxAoGAGULh\nUEfMp86LDB1nnAVaWUmAugsFHuKzCMNwUqEqUhuJk6dFPoc3YWeAWIfvZ7lp1MyT\nrUVbTmJrSNN45qgp0WsQWGn5fIZtH60Fr5Sk4M1EVyv9mO0Hg3Llskmxr/QsnYxy\nlCFajS301VatG4DMN385ry06ZFgJIchbJdz1eSECgYEAkJ/oNkL+2+ohrJFO83D+\nadM4osIf6vduN7Hjw4MSHQvUBVEetGE25ExP0sfZRwWSdRHTFJywRIY9xuQabze3\nVsoa9kKeKgJYou3RGIq4/7bRFKUlNeqdU1pw331foBB0oqvGQ38M7wHfH7Qw0F5S\nPBNcJVzABB+yMW3GC087VMc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-tcy9v@chatty-online-app-346ef.iam.gserviceaccount.com",
+  "client_id": "116934607972819536014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tcy9v%40chatty-online-app-346ef.iam.gserviceaccount.com"
+}
